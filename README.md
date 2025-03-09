@@ -69,13 +69,6 @@ python gesture_recognition.py
 - Integrate with smart home devices for control via hand gestures.
 - Use deep learning models for more accurate gesture recognition.
 
-## License
-This project is licensed under the **MIT License**. Feel free to use and modify it as per your needs.
-
-## Author
-- **Your Name**  
-- [GitHub Profile](https://github.com/your-username)
-
 ---
 
 Enjoy recognizing gestures with your webcam! 🚀
