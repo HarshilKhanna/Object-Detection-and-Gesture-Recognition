@@ -22,12 +22,12 @@ This project uses **MediaPipe** and **OpenCV** to perform real-time **gesture re
 
 1. Clone the repository:
 ```bash
-https://github.com/your-username/gesture-recognition.git
+https://github.com/HarshilKhanna/Object-Detection-and-Gesture-Recognition.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd gesture-recognition
+cd Object-Detection-and-Gesture-Recognition
 ```
 
 3. Install the required libraries:
@@ -48,7 +48,7 @@ pip install opencv-python mediapipe
 
 Run the Python script:
 ```bash
-python gesture_recognition.py
+python Gesture.py
 ```
 
 ### Controls
